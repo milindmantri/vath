@@ -1,0 +1,25 @@
+{
+	"name": "vath",
+	"version": "1.0.0",
+	"description": "Validation and testing helpers",
+	"type": "module",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "uvu tests",
+		"test-watch": "npm test && watchlist src tests -- npm test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/milindmantri/vath.git"
+	},
+	"author": "Milind Mantri <milind@milindmantri.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/milindmantri/vath/issues"
+	},
+	"homepage": "https://github.com/milindmantri/vath#readme",
+	"devDependencies": {
+		"uvu": "^0.5.1",
+		"watchlist": "^0.2.3"
+	}
+}
