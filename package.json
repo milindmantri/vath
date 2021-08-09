@@ -17,6 +17,12 @@
 	"bugs": {
 		"url": "https://github.com/milindmantri/vath/issues"
 	},
+	"keywords": [
+		"validation",
+		"testing",
+		"tdd",
+		"utility"
+	],
 	"homepage": "https://github.com/milindmantri/vath#readme",
 	"devDependencies": {
 		"uvu": "^0.5.1",
