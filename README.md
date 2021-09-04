@@ -75,3 +75,6 @@ import('http')
 WIP
 
 Please raise an issue for suggestions, problems, questions etc.
+
+### Credits
+- [Ronnie Mose](https://github.com/megamoose), for the error message style.
